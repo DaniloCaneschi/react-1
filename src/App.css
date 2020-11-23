@@ -13,8 +13,24 @@
   }
 }
 
+.fundoUsuarioSaida {
+  background-color: darkkhaki;
+  width: 100%;
+  color: black;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.fundoUsuarioEntrada {
+  background-color: darkgreen;
+  width: 100%;
+  color: white;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: gray;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
